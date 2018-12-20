@@ -16,3 +16,5 @@ To train the agent using different algorithms, you just need to import the vario
 3. myagent_dueldqn.py
 
 Replace "import my_agent as mag" with the suitable agent required.
+
+The hyperparameters and results have been separately written in the Report.md file and a video of the agent doing the task has also also been provided in the repo as "banana2.mp4".
