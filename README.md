@@ -38,20 +38,21 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 An RL agent has been trained to play Banana Game using 3 different algorithms.
 
-DQN
-DDQN
-Duelling DQN
+1. DQN
+2. DDQN
+3. Duelling DQN
 
 The saved model weights are respectively:
 
-checkpoint.pth
-checkpoint_ddqn.pth
-checkpoint_dueldqn.pth
+1. checkpoint.pth
+2. checkpoint_ddqn.pth
+3. checkpoint_dueldqn.pth
 To train the agent using different algorithms, you just need to import the various agents.py files respectively
 
-my_agent.py
-myagent_ddqn.py
-myagent_dueldqn.py
+1. my_agent.py
+2. myagent_ddqn.py
+3. myagent_dueldqn.py
+
 Replace "import my_agent as mag" with the suitable agent required.
 
 The hyperparameters and results have been separately written in the Report.md file and a video of the agent doing the task has also also been provided in the repo as "banana2.mp4".
