@@ -13,9 +13,9 @@ The agent has been trained using 3 different learning algorithms
 ![Algo](Images/rl20.png)
 
 ### The TD Target for the 3 specifies algorithms are:
-![Algo](Images/rl22.png)
-![Algo](Images/rl24.png)
-![Algo](Images/rl27.png)
+1. ![Algo](Images/rl22.png)
+2. ![Algo](Images/rl24.png)
+3. ![Algo](Images/rl27.png)
 
 ### The network architectures for DQN and DDQN is :
 ![Algo](Images/rl23.png)
@@ -54,9 +54,9 @@ The number of episodes taken by DQN, DDQN and Duelling DQN respectively are:
 3. 362
 
 The plots of reward vs episodes for DQN, DDQN and Duelling DQN respectively are:
-![Algo](Images/nav.png)
-![Algo](Images/nav_ddqn.png)
-![Algo](Images/nav_dueldqn.png)
+1. ![Algo](Images/nav.png)
+2. ![Algo](Images/nav_ddqn.png)
+3. ![Algo](Images/nav_dueldqn.png)
 
 
 A video named "banan.mp4" of the agent playing the game has also been provided in the repo.
