@@ -13,9 +13,14 @@ The agent has been trained using 3 different learning algorithms
 ![Algo](Images/rl20.png)
 
 ### The TD Target for the 3 specifies algorithms are:
-1. ![Algo](Images/rl22.png) <br/>
-2. ![Algo](Images/rl24.png) <br/>
-3. ![Algo](Images/rl27.png) <br/>
+1. DQN
+![Algo](Images/rl22.png) <br/>
+
+2. DDQN
+![Algo](Images/rl24.png) <br/>
+
+3. Duelling DQN
+![Algo](Images/rl27.png) <br/>
 
 ### The network architectures for DQN and DDQN is :
 ![Algo](Images/rl23.png)
