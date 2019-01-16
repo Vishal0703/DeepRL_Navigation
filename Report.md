@@ -65,9 +65,9 @@ The number of episodes taken by DQN, DDQN and Duelling DQN respectively are:
 3. 362
 
 The plots of reward vs episodes for DQN, DDQN and Duelling DQN respectively are:
-1. ![Algo](Images/nav.png)
-2. ![Algo](Images/nav_ddqn.png)
-3. ![Algo](Images/nav_dueldqn.png)
+1. DQN ![Algo](Images/nav.png)
+2. DDQN ![Algo](Images/nav_ddqn.png)
+3. Duelling DQN ![Algo](Images/nav_dueldqn.png)
 
 
 A video named "banan.mp4" of the agent playing the game has also been provided in the repo.
